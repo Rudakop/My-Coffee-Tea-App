@@ -1,0 +1,116 @@
+[
+  {
+    "name": "df",
+    "weight": 233,
+    "price": 235,
+    "roastLevel": 3,
+    "pricePerKg": 1008.5836909871244
+  },
+  {
+    "name": "sg",
+    "weight": 234,
+    "price": 325,
+    "roastLevel": 2,
+    "pricePerKg": 1388.888888888889
+  },
+  {
+    "name": "katja",
+    "weight": 30,
+    "price": 30,
+    "roastLevel": 5,
+    "pricePerKg": 1000
+  },
+  {
+    "name": "Maksim",
+    "weight": 30,
+    "price": 40,
+    "roastLevel": 1,
+    "pricePerKg": 1333.3333333333333
+  },
+  {
+    "name": "fdsg",
+    "weight": 43,
+    "price": 345,
+    "roastLevel": 2,
+    "pricePerKg": 8023.2558139534885
+  },
+  {
+    "name": "saf",
+    "weight": 23,
+    "price": 15,
+    "roastLevel": 3,
+    "pricePerKg": 652.1739130434783
+  },
+  {
+    "name": "Katja Kozliakova",
+    "weight": 30,
+    "price": 100,
+    "roastLevel": 2,
+    "pricePerKg": 3333.3333333333335
+  },
+  {
+    "name": "qwer",
+    "weight": 23,
+    "price": 3,
+    "roastLevel": 1,
+    "pricePerKg": 130.43478260869566
+  },
+  {
+    "name": "sdf",
+    "weight": 23,
+    "price": 32,
+    "roastLevel": 2,
+    "pricePerKg": 1391.304347826087
+  },
+  {
+    "name": "ewr",
+    "weight": 234,
+    "price": 20,
+    "roastLevel": 1,
+    "pricePerKg": 85.47008547008546
+  },
+  {
+    "name": "MAKSIM KOZLIAKOV",
+    "weight": 0,
+    "price": 0,
+    "roastLevel": 1,
+    "pricePerKg": null
+  },
+  {
+    "name": "s",
+    "weight": 46,
+    "price": 345,
+    "roastLevel": 2,
+    "pricePerKg": 7500
+  },
+  {
+    "name": "dsf",
+    "weight": 342,
+    "price": 34525,
+    "roastLevel": 2
+  },
+  {
+    "name": "TEST",
+    "weight": 435,
+    "price": 345,
+    "roastLevel": 2
+  },
+  {
+    "name": "SUPER",
+    "weight": 234,
+    "price": 1000,
+    "roastLevel": 4
+  },
+  {
+    "name": "Coffee Golden",
+    "weight": 50,
+    "price": 200,
+    "roastLevel": 5
+  },
+  {
+    "name": "ergr",
+    "weight": 100,
+    "price": 1000,
+    "roastLevel": 1
+  }
+]
