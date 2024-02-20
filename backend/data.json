@@ -112,5 +112,17 @@
     "weight": 100,
     "price": 1000,
     "roastLevel": 1
+  },
+  {
+    "name": "Pauling coffee",
+    "weight": 500,
+    "price": 7,
+    "roastLevel": 1
+  },
+  {
+    "name": "dsf",
+    "weight": 30,
+    "price": 300,
+    "roastLevel": 2
   }
 ]

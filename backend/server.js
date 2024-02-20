@@ -5,7 +5,7 @@ const path = require('path');
 
 const app = express();
 const PORT = 3001;
-const dataFilePath = path.join(__dirname, 'data.json');
+const dataFilePath = path.join(__dirname,'data.json');
 
 app.use(bodyParser.json());
 const cors = require('cors');
